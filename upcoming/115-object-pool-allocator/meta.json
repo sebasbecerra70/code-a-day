@@ -1,0 +1,1 @@
+{"slug": "object-pool-allocator", "title": "Object pool allocator (fixed-size blocks with a free list)", "language": "C++"}

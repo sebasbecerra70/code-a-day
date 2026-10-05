@@ -1,0 +1,1 @@
+{"slug": "lfu-cache", "title": "LFU cache (O(1) with frequency buckets)", "language": "Python"}
