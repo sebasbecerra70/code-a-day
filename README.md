@@ -11,6 +11,9 @@ One small, tested piece of code a day: data structures, algorithms, design patte
 ```
 Conventions for every language are in [CONVENTIONS.md](CONVENTIONS.md).
 
+## How entries are published
+Entries are written and tested in batches, then queued in [`upcoming/`](upcoming). A scheduled GitHub Action ([`publish.yml`](.github/workflows/publish.yml)) releases one per day. It re-runs the entry's tests, moves it into its language folder and adds it to the index below. Entries are written with AI assistance, and I study each one as it's released.
+
 ## Index
 <!-- INDEX:START -->
 | Date | Topic | Language | Entry |
