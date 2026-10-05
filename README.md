@@ -19,4 +19,5 @@ Entries are written and tested in batches, then queued in [`upcoming/`](upcoming
 | Date | Topic | Language | Entry |
 |------|-------|----------|-------|
 | 2026-10-05 | LRU cache (hash map + doubly linked list) | Python | [python/2026-10-05-lru-cache](python/2026-10-05-lru-cache) |
+| 2026-10-05 | Dijkstra shortest path (binary min-heap) | TypeScript | [typescript/2026-10-05-dijkstra-shortest-path](typescript/2026-10-05-dijkstra-shortest-path) |
 <!-- INDEX:END -->
