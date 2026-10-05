@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+*.class
+cpp/**/test
+node_modules/
+.DS_Store
