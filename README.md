@@ -21,4 +21,5 @@ Entries are written and tested in batches, then queued in [`upcoming/`](upcoming
 | 2026-10-05 | LRU cache (hash map + doubly linked list) | Python | [python/2026-10-05-lru-cache](python/2026-10-05-lru-cache) |
 | 2026-10-05 | Dijkstra shortest path (binary min-heap) | TypeScript | [typescript/2026-10-05-dijkstra-shortest-path](typescript/2026-10-05-dijkstra-shortest-path) |
 | 2026-10-06 | Generic doubly linked list with iterator | Java | [java/2026-10-06-generic-linked-list](java/2026-10-06-generic-linked-list) |
+| 2026-10-07 | Dynamic array (growable vector from scratch) | C++ | [cpp/2026-10-07-dynamic-array](cpp/2026-10-07-dynamic-array) |
 <!-- INDEX:END -->
