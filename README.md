@@ -22,4 +22,5 @@ Entries are written and tested in batches, then queued in [`upcoming/`](upcoming
 | 2026-10-05 | Dijkstra shortest path (binary min-heap) | TypeScript | [typescript/2026-10-05-dijkstra-shortest-path](typescript/2026-10-05-dijkstra-shortest-path) |
 | 2026-10-06 | Generic doubly linked list with iterator | Java | [java/2026-10-06-generic-linked-list](java/2026-10-06-generic-linked-list) |
 | 2026-10-07 | Dynamic array (growable vector from scratch) | C++ | [cpp/2026-10-07-dynamic-array](cpp/2026-10-07-dynamic-array) |
+| 2026-10-08 | Consistent hashing ring (virtual nodes) | Python | [python/2026-10-08-consistent-hashing-ring](python/2026-10-08-consistent-hashing-ring) |
 <!-- INDEX:END -->
