@@ -24,4 +24,5 @@ Entries are written and tested in batches, then queued in [`upcoming/`](upcoming
 | 2026-10-07 | Dynamic array (growable vector from scratch) | C++ | [cpp/2026-10-07-dynamic-array](cpp/2026-10-07-dynamic-array) |
 | 2026-10-08 | Consistent hashing ring (virtual nodes) | Python | [python/2026-10-08-consistent-hashing-ring](python/2026-10-08-consistent-hashing-ring) |
 | 2026-10-09 | Trie autocomplete (top-k by frequency) | TypeScript | [typescript/2026-10-09-trie-autocomplete](typescript/2026-10-09-trie-autocomplete) |
+| 2026-10-10 | Array deque (circular buffer that grows) | Java | [java/2026-10-10-array-deque](java/2026-10-10-array-deque) |
 <!-- INDEX:END -->
