@@ -27,4 +27,5 @@ Entries are written and tested in batches, then queued in [`upcoming/`](upcoming
 | 2026-10-10 | Array deque (circular buffer that grows) | Java | [java/2026-10-10-array-deque](java/2026-10-10-array-deque) |
 | 2026-10-11 | unique_ptr from scratch (move-only ownership) | C++ | [cpp/2026-10-11-unique-ptr-from-scratch](cpp/2026-10-11-unique-ptr-from-scratch) |
 | 2026-10-12 | Bloom filter (optimal sizing, double hashing) | Python | [python/2026-10-12-bloom-filter](python/2026-10-12-bloom-filter) |
+| 2026-10-13 | Token bucket rate limiter (injectable clock) | TypeScript | [typescript/2026-10-13-token-bucket-rate-limiter](typescript/2026-10-13-token-bucket-rate-limiter) |
 <!-- INDEX:END -->
