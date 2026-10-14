@@ -28,4 +28,5 @@ Entries are written and tested in batches, then queued in [`upcoming/`](upcoming
 | 2026-10-11 | unique_ptr from scratch (move-only ownership) | C++ | [cpp/2026-10-11-unique-ptr-from-scratch](cpp/2026-10-11-unique-ptr-from-scratch) |
 | 2026-10-12 | Bloom filter (optimal sizing, double hashing) | Python | [python/2026-10-12-bloom-filter](python/2026-10-12-bloom-filter) |
 | 2026-10-13 | Token bucket rate limiter (injectable clock) | TypeScript | [typescript/2026-10-13-token-bucket-rate-limiter](typescript/2026-10-13-token-bucket-rate-limiter) |
+| 2026-10-14 | Open addressing hash map (linear probing, backward-shift delete) | Java | [java/2026-10-14-open-addressing-hash-map](java/2026-10-14-open-addressing-hash-map) |
 <!-- INDEX:END -->
