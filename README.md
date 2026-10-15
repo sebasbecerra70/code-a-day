@@ -29,4 +29,5 @@ Entries are written and tested in batches, then queued in [`upcoming/`](upcoming
 | 2026-10-12 | Bloom filter (optimal sizing, double hashing) | Python | [python/2026-10-12-bloom-filter](python/2026-10-12-bloom-filter) |
 | 2026-10-13 | Token bucket rate limiter (injectable clock) | TypeScript | [typescript/2026-10-13-token-bucket-rate-limiter](typescript/2026-10-13-token-bucket-rate-limiter) |
 | 2026-10-14 | Open addressing hash map (linear probing, backward-shift delete) | Java | [java/2026-10-14-open-addressing-hash-map](java/2026-10-14-open-addressing-hash-map) |
+| 2026-10-15 | Ring buffer (fixed-capacity circular queue template) | C++ | [cpp/2026-10-15-ring-buffer-template](cpp/2026-10-15-ring-buffer-template) |
 <!-- INDEX:END -->
