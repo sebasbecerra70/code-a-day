@@ -32,4 +32,5 @@ Entries are written and tested in batches, then queued in [`upcoming/`](upcoming
 | 2026-10-15 | Ring buffer (fixed-capacity circular queue template) | C++ | [cpp/2026-10-15-ring-buffer-template](cpp/2026-10-15-ring-buffer-template) |
 | 2026-10-16 | Binary min-heap (with heapify and heapsort) | Python | [python/2026-10-16-binary-heap](python/2026-10-16-binary-heap) |
 | 2026-10-17 | Debounce and throttle | TypeScript | [typescript/2026-10-17-debounce-and-throttle](typescript/2026-10-17-debounce-and-throttle) |
+| 2026-10-18 | AVL tree (self-balancing BST) | Java | [java/2026-10-18-avl-tree](java/2026-10-18-avl-tree) |
 <!-- INDEX:END -->
