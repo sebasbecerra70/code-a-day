@@ -34,4 +34,5 @@ Entries are written and tested in batches, then queued in [`upcoming/`](upcoming
 | 2026-10-17 | Debounce and throttle | TypeScript | [typescript/2026-10-17-debounce-and-throttle](typescript/2026-10-17-debounce-and-throttle) |
 | 2026-10-18 | AVL tree (self-balancing BST) | Java | [java/2026-10-18-avl-tree](java/2026-10-18-avl-tree) |
 | 2026-10-19 | String tokenizer (split, quoted fields, arithmetic lexer) | C++ | [cpp/2026-10-19-string-tokenizer](cpp/2026-10-19-string-tokenizer) |
+| 2026-10-20 | Quickselect: k-th largest element | Python | [python/2026-10-20-quickselect-kth-largest](python/2026-10-20-quickselect-kth-largest) |
 <!-- INDEX:END -->
