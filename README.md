@@ -38,4 +38,5 @@ Entries are written and tested in batches, then queued in [`upcoming/`](upcoming
 | 2026-10-21 | Type-safe event emitter | TypeScript | [typescript/2026-10-21-typed-event-emitter](typescript/2026-10-21-typed-event-emitter) |
 | 2026-10-22 | BST iterators (in-order, reverse, pre/post-order) | Java | [java/2026-10-22-bst-iterators](java/2026-10-22-bst-iterators) |
 | 2026-10-23 | Matrix class with operator overloading | C++ | [cpp/2026-10-23-matrix-class-operators](cpp/2026-10-23-matrix-class-operators) |
+| 2026-10-24 | 0/1 knapsack (DP with item reconstruction) | Python | [python/2026-10-24-knapsack-01](python/2026-10-24-knapsack-01) |
 <!-- INDEX:END -->
