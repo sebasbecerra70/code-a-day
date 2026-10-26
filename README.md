@@ -40,4 +40,5 @@ Entries are written and tested in batches, then queued in [`upcoming/`](upcoming
 | 2026-10-23 | Matrix class with operator overloading | C++ | [cpp/2026-10-23-matrix-class-operators](cpp/2026-10-23-matrix-class-operators) |
 | 2026-10-24 | 0/1 knapsack (DP with item reconstruction) | Python | [python/2026-10-24-knapsack-01](python/2026-10-24-knapsack-01) |
 | 2026-10-25 | Promise pool with a concurrency limit | TypeScript | [typescript/2026-10-25-promise-pool-concurrency-limit](typescript/2026-10-25-promise-pool-concurrency-limit) |
+| 2026-10-26 | Merge sort and quicksort (stable vs in-place) | Java | [java/2026-10-26-merge-sort-and-quicksort](java/2026-10-26-merge-sort-and-quicksort) |
 <!-- INDEX:END -->
