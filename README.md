@@ -42,4 +42,5 @@ Entries are written and tested in batches, then queued in [`upcoming/`](upcoming
 | 2026-10-25 | Promise pool with a concurrency limit | TypeScript | [typescript/2026-10-25-promise-pool-concurrency-limit](typescript/2026-10-25-promise-pool-concurrency-limit) |
 | 2026-10-26 | Merge sort and quicksort (stable vs in-place) | Java | [java/2026-10-26-merge-sort-and-quicksort](java/2026-10-26-merge-sort-and-quicksort) |
 | 2026-10-27 | Rational number class (exact fractions) | C++ | [cpp/2026-10-27-rational-number-class](cpp/2026-10-27-rational-number-class) |
+| 2026-10-28 | Edit distance (Levenshtein) with alignment | Python | [python/2026-10-28-edit-distance](python/2026-10-28-edit-distance) |
 <!-- INDEX:END -->
