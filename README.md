@@ -43,4 +43,5 @@ Entries are written and tested in batches, then queued in [`upcoming/`](upcoming
 | 2026-10-26 | Merge sort and quicksort (stable vs in-place) | Java | [java/2026-10-26-merge-sort-and-quicksort](java/2026-10-26-merge-sort-and-quicksort) |
 | 2026-10-27 | Rational number class (exact fractions) | C++ | [cpp/2026-10-27-rational-number-class](cpp/2026-10-27-rational-number-class) |
 | 2026-10-28 | Edit distance (Levenshtein) with alignment | Python | [python/2026-10-28-edit-distance](python/2026-10-28-edit-distance) |
+| 2026-10-29 | Deep equality (cycles, Maps, Sets, Dates) | TypeScript | [typescript/2026-10-29-deep-equal](typescript/2026-10-29-deep-equal) |
 <!-- INDEX:END -->
