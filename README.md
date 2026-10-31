@@ -45,4 +45,5 @@ Entries are written and tested in batches, then queued in [`upcoming/`](upcoming
 | 2026-10-28 | Edit distance (Levenshtein) with alignment | Python | [python/2026-10-28-edit-distance](python/2026-10-28-edit-distance) |
 | 2026-10-29 | Deep equality (cycles, Maps, Sets, Dates) | TypeScript | [typescript/2026-10-29-deep-equal](typescript/2026-10-29-deep-equal) |
 | 2026-10-30 | Heap sort (in-place, bottom-up heapify) | Java | [java/2026-10-30-heap-sort](java/2026-10-30-heap-sort) |
+| 2026-10-31 | Big integer arithmetic (base 10^9 limbs) | C++ | [cpp/2026-10-31-big-integer-arithmetic](cpp/2026-10-31-big-integer-arithmetic) |
 <!-- INDEX:END -->
