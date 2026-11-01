@@ -46,4 +46,5 @@ Entries are written and tested in batches, then queued in [`upcoming/`](upcoming
 | 2026-10-29 | Deep equality (cycles, Maps, Sets, Dates) | TypeScript | [typescript/2026-10-29-deep-equal](typescript/2026-10-29-deep-equal) |
 | 2026-10-30 | Heap sort (in-place, bottom-up heapify) | Java | [java/2026-10-30-heap-sort](java/2026-10-30-heap-sort) |
 | 2026-10-31 | Big integer arithmetic (base 10^9 limbs) | C++ | [cpp/2026-10-31-big-integer-arithmetic](cpp/2026-10-31-big-integer-arithmetic) |
+| 2026-11-01 | Longest increasing subsequence (patience sorting) | Python | [python/2026-11-01-longest-increasing-subsequence](python/2026-11-01-longest-increasing-subsequence) |
 <!-- INDEX:END -->
