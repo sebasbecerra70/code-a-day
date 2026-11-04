@@ -49,4 +49,5 @@ Entries are written and tested in batches, then queued in [`upcoming/`](upcoming
 | 2026-11-01 | Longest increasing subsequence (patience sorting) | Python | [python/2026-11-01-longest-increasing-subsequence](python/2026-11-01-longest-increasing-subsequence) |
 | 2026-11-02 | JSON parser (recursive descent) | TypeScript | [typescript/2026-11-02-json-parser](typescript/2026-11-02-json-parser) |
 | 2026-11-03 | Counting sort and LSD radix sort | Java | [java/2026-11-03-counting-and-radix-sort](java/2026-11-03-counting-and-radix-sort) |
+| 2026-11-04 | Sparse matrix (CSR format) | C++ | [cpp/2026-11-04-sparse-matrix](cpp/2026-11-04-sparse-matrix) |
 <!-- INDEX:END -->
