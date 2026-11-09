@@ -54,4 +54,5 @@ Entries are written and tested in batches, then queued in [`upcoming/`](upcoming
 | 2026-11-06 | Binary search variants (bounds, rotated, answer search) | TypeScript | [typescript/2026-11-06-binary-search-variants](typescript/2026-11-06-binary-search-variants) |
 | 2026-11-07 | Bounded blocking queue (lock + two conditions) | Java | [java/2026-11-07-bounded-blocking-queue](java/2026-11-07-bounded-blocking-queue) |
 | 2026-11-08 | Bit manipulation tricks | C++ | [cpp/2026-11-08-bit-manipulation-tricks](cpp/2026-11-08-bit-manipulation-tricks) |
+| 2026-11-09 | KMP string search (prefix function) | Python | [python/2026-11-09-kmp-string-search](python/2026-11-09-kmp-string-search) |
 <!-- INDEX:END -->
