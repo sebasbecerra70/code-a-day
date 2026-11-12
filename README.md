@@ -57,4 +57,5 @@ Entries are written and tested in batches, then queued in [`upcoming/`](upcoming
 | 2026-11-09 | KMP string search (prefix function) | Python | [python/2026-11-09-kmp-string-search](python/2026-11-09-kmp-string-search) |
 | 2026-11-10 | Union-find (path compression + union by size) | TypeScript | [typescript/2026-11-10-union-find](typescript/2026-11-10-union-find) |
 | 2026-11-11 | Producer-consumer executor (fixed worker pool) | Java | [java/2026-11-11-producer-consumer-executor](java/2026-11-11-producer-consumer-executor) |
+| 2026-11-12 | Sieve of Eratosthenes (plus linear and segmented sieves) | C++ | [cpp/2026-11-12-sieve-of-eratosthenes](cpp/2026-11-12-sieve-of-eratosthenes) |
 <!-- INDEX:END -->
