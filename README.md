@@ -62,4 +62,5 @@ Entries are written and tested in batches, then queued in [`upcoming/`](upcoming
 | 2026-11-14 | Topological sort (Kahn's algorithm) | TypeScript | [typescript/2026-11-14-topological-sort-kahn](typescript/2026-11-14-topological-sort-kahn) |
 | 2026-11-15 | Read-write lock and a read-mostly cache | Java | [java/2026-11-15-read-write-lock-cache](java/2026-11-15-read-write-lock-cache) |
 | 2026-11-16 | Segment tree (range sum, lazy range add) | Python | [python/2026-11-16-segment-tree-range-sum](python/2026-11-16-segment-tree-range-sum) |
+| 2026-11-17 | Merge, insert, and intersect intervals | TypeScript | [typescript/2026-11-17-merge-intervals](typescript/2026-11-17-merge-intervals) |
 <!-- INDEX:END -->
