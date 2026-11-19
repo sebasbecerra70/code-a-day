@@ -64,4 +64,5 @@ Entries are written and tested in batches, then queued in [`upcoming/`](upcoming
 | 2026-11-16 | Segment tree (range sum, lazy range add) | Python | [python/2026-11-16-segment-tree-range-sum](python/2026-11-16-segment-tree-range-sum) |
 | 2026-11-17 | Merge, insert, and intersect intervals | TypeScript | [typescript/2026-11-17-merge-intervals](typescript/2026-11-17-merge-intervals) |
 | 2026-11-18 | Builder pattern (immutable HTTP request) | Java | [java/2026-11-18-builder-pattern](java/2026-11-18-builder-pattern) |
+| 2026-11-19 | Extended Euclidean algorithm (inverses, Diophantine, CRT) | C++ | [cpp/2026-11-19-extended-euclid-gcd](cpp/2026-11-19-extended-euclid-gcd) |
 <!-- INDEX:END -->
