@@ -65,4 +65,5 @@ Entries are written and tested in batches, then queued in [`upcoming/`](upcoming
 | 2026-11-17 | Merge, insert, and intersect intervals | TypeScript | [typescript/2026-11-17-merge-intervals](typescript/2026-11-17-merge-intervals) |
 | 2026-11-18 | Builder pattern (immutable HTTP request) | Java | [java/2026-11-18-builder-pattern](java/2026-11-18-builder-pattern) |
 | 2026-11-19 | Extended Euclidean algorithm (inverses, Diophantine, CRT) | C++ | [cpp/2026-11-19-extended-euclid-gcd](cpp/2026-11-19-extended-euclid-gcd) |
+| 2026-11-20 | Fenwick tree (binary indexed tree) | Python | [python/2026-11-20-fenwick-tree](python/2026-11-20-fenwick-tree) |
 <!-- INDEX:END -->
