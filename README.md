@@ -69,4 +69,5 @@ Entries are written and tested in batches, then queued in [`upcoming/`](upcoming
 | 2026-11-21 | Observable store with selectors | TypeScript | [typescript/2026-11-21-observable-store](typescript/2026-11-21-observable-store) |
 | 2026-11-22 | Strategy pattern (pluggable pricing rules) | Java | [java/2026-11-22-strategy-pattern-pricing](java/2026-11-22-strategy-pattern-pricing) |
 | 2026-11-23 | 2D prefix sums (range sum queries and difference arrays) | C++ | [cpp/2026-11-23-prefix-sums-2d](cpp/2026-11-23-prefix-sums-2d) |
+| 2026-11-24 | N-Queens (backtracking with bitmasks) | Python | [python/2026-11-24-n-queens-backtracking](python/2026-11-24-n-queens-backtracking) |
 <!-- INDEX:END -->
