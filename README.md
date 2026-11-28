@@ -73,4 +73,5 @@ Entries are written and tested in batches, then queued in [`upcoming/`](upcoming
 | 2026-11-25 | TTL cache with LRU bound | TypeScript | [typescript/2026-11-25-ttl-cache](typescript/2026-11-25-ttl-cache) |
 | 2026-11-26 | Observer pattern (stock price alerts) | Java | [java/2026-11-26-observer-pattern-price-alerts](java/2026-11-26-observer-pattern-price-alerts) |
 | 2026-11-27 | Monotonic stack (next greater element) | C++ | [cpp/2026-11-27-monotonic-stack-next-greater](cpp/2026-11-27-monotonic-stack-next-greater) |
+| 2026-11-28 | Sudoku solver (backtracking + MRV) | Python | [python/2026-11-28-sudoku-solver](python/2026-11-28-sudoku-solver) |
 <!-- INDEX:END -->
